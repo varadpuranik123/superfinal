@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        fraunces: ["var(--font-fraunces)"],
+        playfairDisplay: ["var(--font-playfair)"],
+        denton: ["var(--font-denton)"],
+      },
     },
   },
   plugins: [],
