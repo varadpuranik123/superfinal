@@ -29,7 +29,7 @@ const Hero = () => {
           </div>
 
           <div id="Ctas" className=" flex gap-8  mb-[24px]">
-            <Link href="/UploadBlogs" className="capitalize border flex gap-2 border-[#333] bg-[#212121] hover:bg-[#313131] transition ease-in-out duration-300 tracking-tight lg:text-base text-sm font-semibold lg:px-4 px-2.5 lg:py-2 py-1.5 ">
+            <Link href="https://github.com/Mobiance/superlevel-hackathon" className="capitalize border flex gap-2 border-[#333] bg-[#212121] hover:bg-[#313131] transition ease-in-out duration-300 tracking-tight lg:text-base text-sm font-semibold lg:px-4 px-2.5 lg:py-2 py-1.5 ">
               <p className="">Translate Blogs</p>
               <Image src="/assets/analytics.svg" alt="Insights" width={20} height={20} />
             </Link>
